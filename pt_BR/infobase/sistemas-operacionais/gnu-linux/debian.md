@@ -29,6 +29,7 @@ Unstable: Também conhecida como "Sid", esta versão é onde o desenvolvimento a
 
 ---
 
+<br></br>
 
 ## Pacotes e Gerenciamento de Software
 
@@ -40,6 +41,7 @@ dpkg: Programa de baixo nível usado para instalar, remover e fornecer informaç
 
 ---
 
+<br></br>
 
 ## Segurança e Atualizações
 
@@ -48,6 +50,7 @@ O Debian é conhecido por seu foco em segurança e estabilidade. O Projeto Debia
 
 ---
 
+<br></br>
 
 ## Usos e Aplicações
 
@@ -56,6 +59,7 @@ O Debian é extremamente versátil e pode ser usado em uma ampla variedade de di
 
 ---
 
+<br></br>
 
 ## Comunidade e Suporte
 A comunidade Debian é uma das mais antigas e respeitadas no mundo do software livre. Há uma abundância de recursos disponíveis, incluindo documentação oficial, listas de discussão, fóruns e canais de IRC, onde os usuários podem obter ajuda e colaborar com outros membros da comunidade.
