@@ -7,6 +7,7 @@ O Debian utiliza o kernel (núcleo de um sistema operacional) Linux, mas a maior
 
 ---
 
+<br></br>
 
 ## História e Filosofia
 
@@ -15,6 +16,7 @@ O projeto Debian foi fundado em 1993 por Ian Murdock com o objetivo de criar um 
 
 ---
 
+<br></br>
 
 ## Estrutura e Organização
 
