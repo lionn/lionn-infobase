@@ -22,9 +22,11 @@ O projeto Debian foi fundado em 1993 por Ian Murdock com o objetivo de criar um 
 
 O Debian é desenvolvido por uma grande comunidade de voluntários espalhados pelo mundo. A organização é coordenada pelo Projeto Debian, que tem um líder eleito periodicamente pelos desenvolvedores. O desenvolvimento é dividido em três ramificações principais: stable (estável), testing (teste) e unstable (instável), cada uma destinada a diferentes fases de desenvolvimento e uso.
 
-Stable: Esta é a versão recomendada para uso em ambientes de produção. Ela é rigorosamente testada e permanece estável durante todo o seu ciclo de vida, recebendo apenas atualizações de segurança e correções críticas.
-Testing: Esta versão é onde se prepara a próxima versão stable. Ela contém pacotes que foram testados na versão unstable e considerados prontos para uma integração mais ampla.
-Unstable: Também conhecida como "Sid", esta versão é onde o desenvolvimento ativo acontece. Pacotes são frequentemente atualizados e testados, sendo o ponto de entrada para novas funcionalidades e software.
+<strong>Stable:</strong> Esta é a versão recomendada para uso em ambientes de produção. Ela é rigorosamente testada e permanece estável durante todo o seu ciclo de vida, recebendo apenas atualizações de segurança e correções críticas.
+
+<strong>Testing:</strong> Esta versão é onde se prepara a próxima versão stable. Ela contém pacotes que foram testados na versão unstable e considerados prontos para uma integração mais ampla.
+
+<strong>Unstable:</strong> Também conhecida como "Sid", esta versão é onde o desenvolvimento ativo acontece. Pacotes são frequentemente atualizados e testados, sendo o ponto de entrada para novas funcionalidades e software.
 
 
 ---
