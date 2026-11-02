@@ -22,12 +22,13 @@ O projeto Debian foi fundado em 1993 por Ian Murdock com o objetivo de criar um 
 
 O Debian é desenvolvido por uma grande comunidade de voluntários espalhados pelo mundo. A organização é coordenada pelo Projeto Debian, que tem um líder eleito periodicamente pelos desenvolvedores. O desenvolvimento é dividido em três ramificações principais: stable (estável), testing (teste) e unstable (instável), cada uma destinada a diferentes fases de desenvolvimento e uso.
 
+<br></br>
 
-<strong>Stable:</strong> Esta é a versão recomendada para uso em ambientes de produção. Ela é rigorosamente testada e permanece estável durante todo o seu ciclo de vida, recebendo apenas atualizações de segurança e correções críticas.
+<li><strong>Stable:</strong> Esta é a versão recomendada para uso em ambientes de produção. Ela é rigorosamente testada e permanece estável durante todo o seu ciclo de vida, recebendo apenas atualizações de segurança e correções críticas.</li>
 
-<strong>Testing:</strong> Esta versão é onde se prepara a próxima versão stable. Ela contém pacotes que foram testados na versão unstable e considerados prontos para uma integração mais ampla.
+<li><strong>Testing:</strong> Esta versão é onde se prepara a próxima versão stable. Ela contém pacotes que foram testados na versão unstable e considerados prontos para uma integração mais ampla.</li>
 
-<strong>Unstable:</strong> Também conhecida como "Sid", esta versão é onde o desenvolvimento ativo acontece. Pacotes são frequentemente atualizados e testados, sendo o ponto de entrada para novas funcionalidades e software.
+<li><strong>Unstable:</strong> Também conhecida como "Sid", esta versão é onde o desenvolvimento ativo acontece. Pacotes são frequentemente atualizados e testados, sendo o ponto de entrada para novas funcionalidades e software.</li>
 
 
 ---
@@ -38,8 +39,11 @@ O Debian é desenvolvido por uma grande comunidade de voluntários espalhados pe
 
 Uma das maiores vantagens do Debian é seu sistema de gerenciamento de pacotes avançado, que utiliza ferramentas como o APT (Advanced Package Tool) para facilitar a instalação, atualização e remoção de software. Os pacotes são distribuídos em formatos .deb e podem ser facilmente acessados através de repositórios online.
 
-APT: Ferramenta que simplifica a instalação e atualização de software, resolvendo automaticamente dependências e configurando pacotes.
-dpkg: Programa de baixo nível usado para instalar, remover e fornecer informações sobre pacotes .deb.
+<br></br>
+
+<strong>APT:</strong> Ferramenta que simplifica a instalação e atualização de software, resolvendo automaticamente dependências e configurando pacotes.
+
+<strong>dpkg:</strong> Programa de baixo nível usado para instalar, remover e fornecer informações sobre pacotes .deb.
 
 
 ---
