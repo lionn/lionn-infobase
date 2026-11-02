@@ -25,8 +25,10 @@ O Debian é desenvolvido por uma grande comunidade de voluntários espalhados pe
 <br></br>
 
 <li><strong>Stable:</strong> Esta é a versão recomendada para uso em ambientes de produção. Ela é rigorosamente testada e permanece estável durante todo o seu ciclo de vida, recebendo apenas atualizações de segurança e correções críticas.</li>
+<br></br>
 
 <li><strong>Testing:</strong> Esta versão é onde se prepara a próxima versão stable. Ela contém pacotes que foram testados na versão unstable e considerados prontos para uma integração mais ampla.</li>
+<br></br>
 
 <li><strong>Unstable:</strong> Também conhecida como "Sid", esta versão é onde o desenvolvimento ativo acontece. Pacotes são frequentemente atualizados e testados, sendo o ponto de entrada para novas funcionalidades e software.</li>
 
