@@ -1,2 +1,2 @@
-# lionn-docs
-Base de conhecimento pública, documentação, artigos e FAQs sobre Linux, DevOps, Magento, Cloud e Tecnologia.
+# lionn-infobase
+Base de conhecimento pública com informações, documentação, artigos e FAQs sobre Linux, DevOps, Magento, jogos, cloud, tecnologia e outras coisas que fazem parte da nossa bagunça digital...
